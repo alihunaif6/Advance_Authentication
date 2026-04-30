@@ -1,7 +1,5 @@
 <h1 align="center">Advanced Auth Project Ali Hunaif </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 
 About The Project Created
 
